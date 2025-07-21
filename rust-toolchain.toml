@@ -4,6 +4,6 @@
 [toolchain]
 # Writing custom lints requires using nightly Rust. We pin to a specific version of nightly version
 # so that builds are reproducible.
-channel = "stable-x86_64-pc-windows-msvc"
+channel = "nightly-2025-07-20"
 # These components are required to use `rustc` crates.
 components = ["rustc-dev", "llvm-tools-preview"]

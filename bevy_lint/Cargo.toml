@@ -22,7 +22,6 @@ harness = false
 # currently pinned nightly Rust version. When the Rust version changes, this too needs to be
 # updated!
 clippy_utils = "=0.1.90"
-
 # Easy error propagation and contexts.
 anyhow = "1.0.86"
 # Easy structured output for `cargo metadata`, used for cargo lints
